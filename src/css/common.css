@@ -35,13 +35,13 @@ button {
   justify-content: center;
   padding-top: 20px;
 }
-/* input {
+
+.flatpickr-input {
   display: block;
   margin-left: auto;
   margin-right: auto;
   font-size: 24px;
-} */
-
+}
 .form {
   /* display: block;
   margin-left: auto;
